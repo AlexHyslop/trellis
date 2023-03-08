@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <strong>Ansible-powered LEMP stack for WordPress</strong>
+  <strong>Ansible-powered LEMP stack for WordPress Test</strong>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 **Trellis** is an open source project and completely free to use.
 
-However, the amount of effort needed to maintain and develop new features and products within the Roots ecosystem is not sustainable without proper financial backing. If you have the capability, please consider [sponsoring Roots](https://github.com/sponsors/roots).
+However, the amount of effort needed to asadasd maintain and develop new features and products within the Roots ecosystem is not sustainable without proper financial backing. If  you have the capability, please consider [sponsoring Roots](https://github.com/sponsors/roots).
 
 <p align="center"><a href="https://github.com/sponsors/roots"><img height="32" src="https://img.shields.io/badge/sponsor%20roots-525ddc?logo=github&logoColor=ffffff&message=" alt="Sponsor Roots"></a></p>
 
